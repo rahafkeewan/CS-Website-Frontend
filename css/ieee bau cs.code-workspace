@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ieee bau cs"
+	}
+}
